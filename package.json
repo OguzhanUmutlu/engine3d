@@ -4,7 +4,8 @@
   "description": "A simple 3D renderer for web using 2D canvas",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
