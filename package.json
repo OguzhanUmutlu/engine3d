@@ -1,0 +1,25 @@
+{
+  "name": "engine3d",
+  "version": "1.0.0",
+  "description": "A simple 3D renderer for web using 2D canvas",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OguzhanUmutlu/engine3d.git"
+  },
+  "keywords": [],
+  "author": "OguzhanUmutlu",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/OguzhanUmutlu/engine3d/issues"
+  },
+  "homepage": "https://github.com/OguzhanUmutlu/engine3d#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.4",
+    "vite": "^6.3.5"
+  }
+}
